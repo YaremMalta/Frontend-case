@@ -18,25 +18,26 @@ Bu uygulamanın amacı:
 5.Figma tasarımına uygun, temiz ve sürdürülebilir UI geliştirmek
 
 # 3.Kullanılan Teknolojiler
-1.React Native (Expo)
+1. React Native (Expo)
 
-2.TypeScript
+2. TypeScript
 
-3.Axios
+3. Axios
 
-4.React Query (TanStack Query v5)
+4. React Query (TanStack Query v5)
 
-5.Zustand
+5. Zustand
 
-6.Expo Router (navigation)
+6. Expo Router (navigation)
 
-7.Tailwind CSS (UI styling)
+7. Tailwind CSS (UI styling)
 
-8.Fakestore API
+8. Fakestore API
 https://fakestoreapiserver.reactbd.org/api
 
 # 4.Özellikler
  1.Ürün Listeleme
+ 
 API üzerinden ürünlerin çekilmesi
 
 Loading state yönetimi
@@ -88,19 +89,19 @@ src/
 
 # 6.Kurulum
 
-Projeyi çalıştırmadan önce bilgisayarınızda Node.js kurulu olmalıdır.
+1.Projeyi çalıştırmadan önce bilgisayarınızda Node.js kurulu olmalıdır.
 
-Eğer Expo yüklü değilse: npx create-expo-app@latest
+2.Eğer Expo yüklü değilse: npx create-expo-app@latest
 
-git clone https://github.com/YaremMalta/Frontend-case.git
+3.git clone https://github.com/YaremMalta/Frontend-case.git
 
-cd frontend-case
+4.cd frontend-case
 
-npm install
+5.npm install
 
-npx expo start
+6.npx expo start
 
-npx expo start komutundan sonra ios simulatör için "i" basmak yeterlidir.
+7.npx expo start komutundan sonra ios simulatör için "i" basmak yeterlidir.
 
 
 
