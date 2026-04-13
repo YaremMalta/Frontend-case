@@ -82,7 +82,7 @@ src/
  
   ├── store/          # Zustand global state (Sepet yönetimi)
  
-  ├── stereotypes/    # TypeScript type ve interface tanımları
+  ├── types/          # TypeScript type ve interface tanımları
  
   ├── data/           # Statik / mock veriler
  
