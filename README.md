@@ -36,7 +36,7 @@ Bu uygulamanın amacı:
 https://fakestoreapiserver.reactbd.org/api
 
 # 4.Özellikler
- 1.Ürün Listeleme
+1.Ürün Listeleme
  
 API üzerinden ürünlerin çekilmesi
 
@@ -49,7 +49,7 @@ Görsel
 Ürün adı
 Fiyat
 
-2 .Ürün Detay Ekranı
+2.Ürün Detay Ekranı
 Seçilen ürünün detaylarının gösterilmesi
 
 Ürün açıklaması
@@ -58,7 +58,7 @@ Görsel ve fiyat bilgisi
 
 “Sepete Ekle” fonksiyonu
 
-3. Sepet Yönetimi
+3.Sepet Yönetimi
 
 Sepete ürün ekleme
 
