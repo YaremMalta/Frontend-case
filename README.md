@@ -74,11 +74,17 @@ Zustand ile global state yönetimi
 
 src/
  ├── components/     # Tekrar kullanılabilir UI bileşenleri
+ 
  ├── screens/        # Uygulama ekranları (Home, Detail, Cart)
+ 
  ├── services/       # API istekleri (Axios instance)
+ 
  ├── store/          # Zustand global state (Sepet yönetimi)
+ 
  ├── stereotypes/    # TypeScript type ve interface tanımları
+ 
  ├── data/           # Statik / mock veriler
+ 
 
 # 6.Kurulum
 
