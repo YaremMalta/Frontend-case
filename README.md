@@ -104,13 +104,6 @@ src/
 7.npx expo start komutundan sonra ios simulatör için "i" basmak yeterlidir.
 
 
-# 7. Ekran Görüntüleri
-
-1.Home page
-./homepage.png
-
-2.Home page 1
-./homepage1.png
 
 
 
